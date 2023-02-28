@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="get_fact">Отримати факт</string>
+    <string name="random_fact">Отримати факт про випадкове число</string>
+    <string name="input_number">Введіть число</string>
+    <string name="error_message">Будь ласка введіть корректне число</string>
+    <string name="no_internet">Відсутній інтернет</string>
+    <string name="service_is_unavailable">Сервіс не доступний</string>
+    <string name="fact_label">Факт про число:</string>
+    <string name="number_label">Число:</string>
+    <string name="timeout">Час вийшов</string>
+</resources>
